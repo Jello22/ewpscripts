@@ -1,0 +1,24 @@
+#Haldor Beam
+- prefab: Haldor
+  types:
+  - create
+  spawn:
+  - prefab: Charred_altar_bellfragment
+    pos: 0,0,-25
+    data: indestructibleBeam
+#Witch Beam
+- prefab: BogWitch
+  types:
+  - create
+  spawn:
+  - prefab: Charred_altar_bellfragment
+    pos: 0,0,-25
+    data: indestructibleBeam
+#Hildir Beam
+- prefab: Hildir
+  types:
+  - create
+  spawn:
+  - prefab: Charred_altar_bellfragment
+    pos: 0,0,-25
+    data: indestructibleBeam# Write your entries here. Good luck!
