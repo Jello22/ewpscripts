@@ -9,6 +9,9 @@ Designed with no-map playthroughs in mind, these beacons provide visible landmar
 
 Whether you're sailing along the coast or wandering through the wilderness, keep an eye out for the green glow!
 
+
+![The Merchant's Hound - Bog Witch Beacon](https://raw.githubusercontent.com/Jello22/ewpscripts/main/Media/merchbog.png)
+
 ## Features
 
 - Adds a bright green beacon to Haldor, Hildir, and the Bog Witch.
